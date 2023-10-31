@@ -5,15 +5,3 @@ body {
   background-color: #f4f3fa;
 }
 
-.error {
-  color: #e63338;
-}
-
-.success {
-   color: #00e05b;
-}
-
-input[type=submit] {
-  color: #fff;
-  background-color: #1e29f5;
-}
